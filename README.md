@@ -5,7 +5,7 @@ Cybersecurity enthusiast with hands-on experience analysing malware network traf
 
 This repository contains hands-on cybersecurity investigations simulating Security Operations Centre (SOC) workflows.
 
-## Skills Demonstrated
+## 🔍 Skills Demonstrated
 
 - Network Traffic Analysis
 - Malware Investigation
@@ -15,7 +15,7 @@ This repository contains hands-on cybersecurity investigations simulating Securi
 - MITRE ATT&CK Mapping
 - Wireshark Analysis
 
-## Investigations
+## 🧪 Investigations
 
 ### TrickBot PCAP Malware Investigation
 
@@ -23,3 +23,15 @@ Network traffic analysis identifying command-and-control activity and extracting
 
 🔗 Project Link  
 https://github.com/duke421/trickbot-pcap-threat-investigation
+
+---
+
+### Emotet Malware Traffic Investigation (Coming Soon)...
+
+---
+
+### Phishing Email Investigation (Coming Soon)...
+
+---
+
+### SSH Brute Force Detection (Coming Soon)...
