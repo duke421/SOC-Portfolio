@@ -1,4 +1,8 @@
 # SOC-Portfolio
+## About
+
+Cybersecurity enthusiast with hands-on experience analysing malware network traffic, extracting indicators of compromise (IOCs), and mapping attacker behaviour using the MITRE ATT&CK framework. This repository serves as a portfolio of SOC-style investigations and security analysis projects.
+
 This repository contains hands-on cybersecurity investigations simulating Security Operations Centre (SOC) workflows.
 
 ## Skills Demonstrated
