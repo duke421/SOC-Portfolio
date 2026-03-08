@@ -1,3 +1,0 @@
-[submodule "investigations/tickbot-pcap"]
-	path = investigations/tickbot-pcap
-	url = https://github.com/duke421/trickbot-pcap-threat-investigation
